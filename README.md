@@ -62,4 +62,4 @@ repositório resolve os conflitos automaticamente
 
 ### Configura o Gitflow
  git flow intit 
- git flow feature start (nome-da-feature)
+ git flow feature start (nome-da-feature).
