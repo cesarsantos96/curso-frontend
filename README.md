@@ -28,6 +28,9 @@ https://github.com/
 ## Commits
 Informação de alteração
     - Após testado todo seu códgigo
+    - git add *
+    -git commit -m 'mensagem''
+    - git push (para enviar alteração para o repositório)
 
 ## Gitflow
     Fluxo do Git 
