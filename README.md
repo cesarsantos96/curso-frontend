@@ -45,9 +45,21 @@ são ramificação / versões paralelas
     -develop
     -DOD Defenicion of Done: Criterios de aceite
     - versionamento 1.0.0
-<<<<<<< HEAD
-=======
+    
+    - git checkout -b dev (cria uma branch)
+     - git checkout master (muda de branch)
+### Merges
+Mescla de branchs
+Você pode precisar resolver conflitos manualmente 
 
-### Merge 
-    Mescla de brenchs 
->>>>>>> main
+
+git merge main
+
+## Pull Requests
+Mescla de branch no repositório
+Permite code review 
+repositório resolve os conflitos automaticamente 
+
+### Configura o Gitflow
+ git flow intit 
+ git flow feature start (nome-da-feature)
