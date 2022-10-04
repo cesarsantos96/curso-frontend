@@ -36,3 +36,15 @@ Informação de alteração
 
 ## Gitflow
     Fluxo do Git 
+
+
+## Branchs 
+são ramificação / versões paralelas
+
+    - main / master (vai para a produção quando o projeto é publicado)
+    -develop
+    -DOD Defenicion of Done: Criterios de aceite
+    - versionamento 1.0.0
+
+### Merge 
+    Mescla de brenchs 
