@@ -45,6 +45,9 @@ são ramificação / versões paralelas
     -develop
     -DOD Defenicion of Done: Criterios de aceite
     - versionamento 1.0.0
+<<<<<<< HEAD
+=======
 
 ### Merge 
     Mescla de brenchs 
+>>>>>>> main
